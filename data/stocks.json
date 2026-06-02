@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-06-02T05:40:34.020Z",
+  "tickers": [
+    {
+      "ticker": "AAPL",
+      "scrapedAt": "2026-06-02T05:40:34.003Z",
+      "price": null,
+      "companyName": "AAPL",
+      "currency": "USD",
+      "pctChange": null,
+      "previousClose": null,
+      "marketCap": null,
+      "exchange": null,
+      "fundamentals": null,
+      "sources": {
+        "yahooFinance": "failed",
+        "robinhoodQuote": "failed",
+        "robinhoodFundamentals": "failed"
+      }
+    },
+    {
+      "ticker": "MSFT",
+      "scrapedAt": "2026-06-02T05:40:34.008Z",
+      "price": null,
+      "companyName": "MSFT",
+      "currency": "USD",
+      "pctChange": null,
+      "previousClose": null,
+      "marketCap": null,
+      "exchange": null,
+      "fundamentals": null,
+      "sources": {
+        "yahooFinance": "failed",
+        "robinhoodQuote": "failed",
+        "robinhoodFundamentals": "failed"
+      }
+    },
+    {
+      "ticker": "GOOGL",
+      "scrapedAt": "2026-06-02T05:40:34.012Z",
+      "price": null,
+      "companyName": "GOOGL",
+      "currency": "USD",
+      "pctChange": null,
+      "previousClose": null,
+      "marketCap": null,
+      "exchange": null,
+      "fundamentals": null,
+      "sources": {
+        "yahooFinance": "failed",
+        "robinhoodQuote": "failed",
+        "robinhoodFundamentals": "failed"
+      }
+    },
+    {
+      "ticker": "AMZN",
+      "scrapedAt": "2026-06-02T05:40:34.017Z",
+      "price": null,
+      "companyName": "AMZN",
+      "currency": "USD",
+      "pctChange": null,
+      "previousClose": null,
+      "marketCap": null,
+      "exchange": null,
+      "fundamentals": null,
+      "sources": {
+        "yahooFinance": "failed",
+        "robinhoodQuote": "failed",
+        "robinhoodFundamentals": "failed"
+      }
+    },
+    {
+      "ticker": "MRVL",
+      "scrapedAt": "2026-06-02T05:40:34.020Z",
+      "price": null,
+      "companyName": "MRVL",
+      "currency": "USD",
+      "pctChange": null,
+      "previousClose": null,
+      "marketCap": null,
+      "exchange": null,
+      "fundamentals": null,
+      "sources": {
+        "yahooFinance": "failed",
+        "robinhoodQuote": "failed",
+        "robinhoodFundamentals": "failed"
+      }
+    }
+  ]
+}
